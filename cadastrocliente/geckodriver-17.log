@@ -1,0 +1,10 @@
+1649724925174	geckodriver	INFO	Listening on 127.0.0.1:54794
+1649724928173	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "54795" "-no-remote" "-profile" "C:\\Users\\Acer\\AppData\\Local\\Temp\\rust_mozprofilecDKuuK"
+1649724928645	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Acer\\AppData\\Local\\Temp\\rust_mozprofilecDKuuK\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:54795/devtools/browser/91977702-3127-4b03-9c09-bb5d65326edc
+1649724930580	Marionette	INFO	Listening on port 54802
+1649724930853	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://estivalet.github.io"
+1649724991432	Marionette	INFO	Stopped listening on port 54802
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
